@@ -1,4 +1,4 @@
-function retrievePatientInformation() {
+function retrievePatientInformationXX() {
 
   if (!sessionStorage.getItem("patientid")) {
     console.log("Redirecting to login");

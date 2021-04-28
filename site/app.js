@@ -17,7 +17,7 @@ var port = process.env.PORT || 8080;
 
 var app = express();
 
-var MODE = {
+var MODE = { 
   "TEST": 1,
   "Z": 2,
   "OPENSHIFT": 3

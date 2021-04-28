@@ -9,7 +9,7 @@ var MODE = {
   "OPENSHIFT": 3
 }
 
-function checkurl) {
+function checkurl() {
   if (validURL(urlfield.value)) {
     cobolbutton.style.opacity = 1;
     javabutton.style.opacity = 1;
